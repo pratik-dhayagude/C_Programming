@@ -4,7 +4,7 @@ int main()
 
 
 {
-    int arr[4]={10,20,30,40};
+    int arr[4]={10,20,30,50};
 
     int brr[3];
     brr[2]=30;
