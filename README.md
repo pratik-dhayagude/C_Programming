@@ -1,1 +1,1 @@
-# C_Programming
+This repository is created to understand the concept pf c programming language 
