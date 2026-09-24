@@ -1,1 +1,1 @@
-This repository is created to understand the concept pf c programming language 
+This repository is created to understand the concept pf c programming language.
